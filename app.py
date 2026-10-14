@@ -1,7 +1,7 @@
 
 import streamlit as st
 
-st.title("THẨM ĐỊNH TÍN DỤNG")
+st.title("THẨM ĐỊNH THU NHẬP KHÁCH HÀNG_NGUYỄN HOÀNG HƯNG")
 st.write("Nhập thông tin khách hàng để tính tỷ lệ DTI.")
 
 # 1. NHẬP DỮ LIỆU
